@@ -83,7 +83,7 @@ $contacts = mysqli_fetch_all($result, MYSQLI_ASSOC);
 
 <footer>
     <div class="container">
-        Agenda de Contatos &mdash; IFRO
+        Agenda de Contatos &mdash; Guilherme Maricato Tavares
     </div>
 </footer>
 
